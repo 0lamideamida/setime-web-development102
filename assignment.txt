@@ -1,0 +1,14 @@
+the command use for addind a file to the staging area is git add.
+the command use to commit changes in a git is git commit.
+git push command is use to upload local repository content to a remote repository
+the git pull command is used to fetch and download content from a remote reprository
+git stash command
+the cd[change directory] moves you into a different directory
+the ls command 
+to create a new directory use "mkdir"command
+type$ touch followed by the name of the file you want to create
+the cp command
+
+
+
+
